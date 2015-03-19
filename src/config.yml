@@ -1,0 +1,10 @@
+## Default configuration file for MoreEnchantsPlus v.2.0
+## Author: Adam561
+## Version: 2.0
+## Website: http://dev.bukkit.org/bukkit-plugins/moreenchatsplus/
+
+canUpdate: true
+metrics: true
+
+chance_for_FirePick: 100
+cost_for_FirePick: 1

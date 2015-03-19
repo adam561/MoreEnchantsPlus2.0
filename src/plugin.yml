@@ -1,0 +1,10 @@
+name: MoreEnchantsPlus
+main: me.adam561.enchanter.main
+version: 2.0
+author: adam561
+website: http://dev.bukkit.org/bukkit-plugins/moreenchatsplus/
+commands:
+   mep:
+     description: Add enchantments to the item you are holding
+   mepupdate:
+     description: Update MoreEnchantsPlus

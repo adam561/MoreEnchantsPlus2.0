@@ -1,0 +1,1 @@
+This is a plugin that adds more enchantments to minecraft!
